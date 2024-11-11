@@ -1,1 +1,1 @@
-# NaPredeleVozmozshnostey
+Приложение для анализа глюкозы в крови
